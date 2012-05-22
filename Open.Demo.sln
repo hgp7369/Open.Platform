@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Open.Demo", "Open.Demo\Open.Demo.csproj", "{2F2DEE9F-4F86-428F-A93F-F462F38B3DE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Open.SinaSDK", "Open.SinaSDK\Open.SinaSDK.csproj", "{8CC242A6-4EA4-4913-B730-5B226E758745}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Open.NeteaseSDK", "Open.NeteaseSDK\Open.NeteaseSDK.csproj", "{33D8A205-0A49-4863-843A-F6C59427088E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Open.Sina2SDK", "Open.Sina2.0SDK\Open.Sina2SDK.csproj", "{C5399C53-98E7-45EB-BA32-782714AA6B4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Open.QQ2SDK", "Open.QQ2SDK\Open.QQ2SDK.csproj", "{94CBCEA6-7885-46C2-8CE4-38B880007699}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Open.Tencent2SDK", "Open.Tencent2SDK\Open.Tencent2SDK.csproj", "{042A1284-E96C-4622-A7BD-453B58056299}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Open.Netease2SDK", "Open.Netease2SDK\Open.Netease2SDK.csproj", "{FC3CC06C-42B8-4C29-9640-9374278B342B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F2DEE9F-4F86-428F-A93F-F462F38B3DE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F2DEE9F-4F86-428F-A93F-F462F38B3DE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F2DEE9F-4F86-428F-A93F-F462F38B3DE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F2DEE9F-4F86-428F-A93F-F462F38B3DE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CC242A6-4EA4-4913-B730-5B226E758745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CC242A6-4EA4-4913-B730-5B226E758745}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CC242A6-4EA4-4913-B730-5B226E758745}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CC242A6-4EA4-4913-B730-5B226E758745}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33D8A205-0A49-4863-843A-F6C59427088E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33D8A205-0A49-4863-843A-F6C59427088E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33D8A205-0A49-4863-843A-F6C59427088E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33D8A205-0A49-4863-843A-F6C59427088E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5399C53-98E7-45EB-BA32-782714AA6B4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5399C53-98E7-45EB-BA32-782714AA6B4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5399C53-98E7-45EB-BA32-782714AA6B4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5399C53-98E7-45EB-BA32-782714AA6B4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94CBCEA6-7885-46C2-8CE4-38B880007699}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94CBCEA6-7885-46C2-8CE4-38B880007699}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94CBCEA6-7885-46C2-8CE4-38B880007699}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94CBCEA6-7885-46C2-8CE4-38B880007699}.Release|Any CPU.Build.0 = Release|Any CPU
+		{042A1284-E96C-4622-A7BD-453B58056299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{042A1284-E96C-4622-A7BD-453B58056299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{042A1284-E96C-4622-A7BD-453B58056299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{042A1284-E96C-4622-A7BD-453B58056299}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC3CC06C-42B8-4C29-9640-9374278B342B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC3CC06C-42B8-4C29-9640-9374278B342B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC3CC06C-42B8-4C29-9640-9374278B342B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC3CC06C-42B8-4C29-9640-9374278B342B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
